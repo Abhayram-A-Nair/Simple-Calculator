@@ -1,2 +1,2 @@
 # Simple-Calculator
-A simple calculator which works on integers in python. Mostly used s practice for Tkinter.
+A simple calculator which works on integers in python. Used to practice Tkinter.
